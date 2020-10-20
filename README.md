@@ -1,4 +1,4 @@
-A "Hello World" app with ASP.NET Core
+# "Hello World" app with ASP.NET Core
 
 A Razor Pages web app that can display and manage a database of movies.
 Some work done included:
